@@ -701,7 +701,7 @@ The Core Node is the heart of PixelIt Node-RED extension.
 
 **Name**: This value can be chosen as you like.  
 **IP-Address**: The Ip address of PixelIt can be entered here to directly use the HTTP API.  
-**Master-Topic**: Here the master topic can be entered to generate the MQTT-Tpoic, this is then passed on in the "msg.topic".
+**Master-Topic**: Here the master topic can be entered to generate the MQTT-Topic, this is then passed on in the "msg.topic".
 
 ## Alert Screen
 
